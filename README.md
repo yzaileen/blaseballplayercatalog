@@ -31,4 +31,6 @@ every team has their individual txt document (teamname.txt, teamname is the team
 
 batting stars are recorded as a number like 1 or 3.5
 
+modifications are listed like mod1; mod2; mod3; etc. If there are no modifications/items/armor then the value is just "none"
+
 aside from the stuff on the blaseball.com page, there's also a value that records the player's current position, which is either "batter/lineup" or "pitcher/rotation"
